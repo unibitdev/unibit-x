@@ -266,14 +266,14 @@ const uint32_t DATABASE_DEFAULT_MAX_OPEN_FILES               = 100;
 const uint16_t DATABASE_DEFAULT_BACKGROUND_THREADS_COUNT     = 2;
 
 const char     LATEST_VERSION_URL[]                          = "http://latest.unibit.app";
-const std::string LICENSE_URL                                = "https://github.com/royhodge/unibit-x/blob/master/LICENSE";
+const std::string LICENSE_URL                                = "https://github.com/UniBitX/unibit-x/blob/master/LICENSE";
 const static   boost::uuids::uuid CRYPTONOTE_NETWORK         =
 {
     {  0xb4, 0x0c, 0x3a, 0x5c, 0xcf, 0x42, 0x47, 0x31, 0x55, 0xf9, 0x91, 0xa4, 0xb5, 0xc1, 0x33, 0xe9  }
 };
 
 const char* const SEED_NODES[] = {
-  "168.235.107.24:11888",//seed node #1
+  "192.84.90.217:11888",//seed node #1
   "192.184.90.66:11888" //seed node #2
 };
 } // CryptoNote
