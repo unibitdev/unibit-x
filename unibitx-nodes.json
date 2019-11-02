@@ -1,0 +1,32 @@
+{
+  "nodes": [
+    {
+      "name": "US Seed Node #1",
+      "url": "173.212.206.38",
+      "port": 11888,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "US Seed Node #2",
+      "url": "192.184.90.66",
+      "port": 11888,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Seed Node #3",
+      "url": "213.136.89.252",
+      "port": 11888,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Seed Node #4",
+      "url": "192.184.90.217",
+      "port": 11888,
+      "ssl": false,
+      "cache": false
+    }
+  ]
+}
