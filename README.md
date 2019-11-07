@@ -3,10 +3,10 @@
 ![image](https://avatars3.githubusercontent.com/u/31015318?s=460&v=4)
 
 #### Master Build Status
-[![Build Status](https://travis-ci.org/turtlecoin/turtlecoin.svg?branch=master)](https://travis-ci.org/turtlecoin/turtlecoin) [![Build status](https://ci.appveyor.com/api/projects/status/github/turtlecoin/turtlecoin?branch=master&svg=true)](https://ci.appveyor.com/project/RocksteadyTC/turtlecoin)
+[![Build Status](https://travis-ci.org/UniBitX/unibit-x.svg?branch=master)](https://travis-ci.org/UniBitX/unibit-x) [![Build status](https://ci.appveyor.com/api/projects/status/github/UniBitX/unibit-x?branch=master&svg=true)](https://ci.appveyor.com/project/UniBitX/unibit-x)
 
 #### Development Build Status
-[![Build Status](https://travis-ci.org/turtlecoin/turtlecoin.svg?branch=development)](https://travis-ci.org/turtlecoin/turtlecoin) [![Build status](https://ci.appveyor.com/api/projects/status/github/turtlecoin/turtlecoin?branch=development&svg=true)](https://ci.appveyor.com/project/RocksteadyTC/turtlecoin)
+[![Build Status](https://travis-ci.org/UniBitX/unibit-x.svg?branch=development)](https://travis-ci.org/UniBitX/unibit-x) [![Build status](https://ci.appveyor.com/api/projects/status/github/UniBitX/unibit-x?branch=development&svg=true)](https://ci.appveyor.com/project/UniBitX/unibit-x)
 
 ### Installing
 
